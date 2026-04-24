@@ -1,7 +1,8 @@
 ## 2026.04.23
 
 ### Added
-- Designed kernel and enhanced interfaces for the SimpleBankAccount component
+- Implemented abstract class SimpleBankAccountSecondary
 
 ### Updated
-- Added final Part 3 interface changes for pull request submission
+- Implemented secondary methods using only kernel methods
+- Added toString and equals methods
