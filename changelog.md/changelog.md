@@ -1,8 +1,8 @@
-## 2026.04.23
+## 2026.04.24
 
 ### Added
-- Implemented abstract class SimpleBankAccountSecondary
+- Implemented kernel class SimpleBankAccount1L
 
 ### Updated
-- Implemented secondary methods using only kernel methods
-- Added toString and equals methods
+- Added representation, convention, and correspondence
+- Implemented all kernel methods
