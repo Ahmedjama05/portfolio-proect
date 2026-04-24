@@ -1,5 +1,10 @@
-## 2026.04.23
+## Summary
+Finalized portfolio project with testing, use cases, and reflection.
 
-### Added
-- Implemented SimpleBankAccount proof-of-concept
-- Added main method to demonstrate functionality
+## What I Did
+- Created JUnit test cases for kernel and secondary methods
+- Added two different use cases demonstrating functionality
+- Reflected on development process
+
+## Notes
+Project is fully structured and ready for submission.
